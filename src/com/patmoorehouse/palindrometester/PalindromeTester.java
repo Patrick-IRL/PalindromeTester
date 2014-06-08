@@ -1,3 +1,8 @@
+/**
+ * Author: Patrick Moorehouse 
+ * Created: December 2013
+ */
+
 package com.patmoorehouse.palindrometester;
 
 import java.io.BufferedReader;
