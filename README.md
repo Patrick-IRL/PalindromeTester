@@ -17,8 +17,8 @@ ab ba
 
 Example output:
 
-abba    true  
-abc     false  
-ab.ba   false  
-axa     true  
-ab ba   false  
+abba&nbsp;&nbsp;&nbsp;&nbsp;true  
+abc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;false  
+ab.ba&nbsp;&nbsp;&nbsp;false  
+axa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;true  
+ab ba&nbsp;&nbsp;&nbsp;false  
