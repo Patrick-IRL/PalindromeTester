@@ -17,8 +17,8 @@ ab ba
 
 Example output:
 
-abba		true  
-abc		  false  
-ab.ba		false  
-axa	  	true  
-ab ba		false  
+abba    true  
+abc     false  
+ab.ba   false  
+axa     true  
+ab ba   false  
