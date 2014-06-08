@@ -9,7 +9,7 @@ If the program is run from within Eclipse, with no arguments set in the launch p
 
 Example input (words.txt):
 
-abba\n
+abba
 abc
 ab.ba
 axa
@@ -18,7 +18,11 @@ ab ba
 Example output:
 
 abba		true
+
 abc		  false
+
 ab.ba		false
+
 axa	  	true
+
 ab ba		false
